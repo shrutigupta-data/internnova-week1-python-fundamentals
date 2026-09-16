@@ -220,9 +220,9 @@ Python Basics
 
 ## 👩‍💻 Author
 
-**Shruti**
+**Shruti Gupta**
 
-This repository was created as part of the **Week 1 Python Fundamentals for Data Analytics** assignment.
+This repository was created as part of the **Week 1 Python Fundamentals for Data Analytics Internship by InternNova** assignment.
 
 ## 📌 Notes
 
